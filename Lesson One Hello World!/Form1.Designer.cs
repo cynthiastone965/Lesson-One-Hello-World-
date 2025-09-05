@@ -90,7 +90,7 @@
             redButton.BackColor = Color.Red;
             redButton.Font = new Font("Consolas", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
             redButton.ForeColor = Color.White;
-            redButton.Location = new Point(701, 425);
+            redButton.Location = new Point(707, 365);
             redButton.Name = "redButton";
             redButton.Size = new Size(259, 144);
             redButton.TabIndex = 4;
